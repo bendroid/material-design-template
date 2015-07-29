@@ -12,7 +12,7 @@ ul.social-network li {
 
 ul.social-network.social-card li {
 	display: inline;
-	margin: 0 -5px;
+	margin: 0;
 }
 
 /* footer social icons */
